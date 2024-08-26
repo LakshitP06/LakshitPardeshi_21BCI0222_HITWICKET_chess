@@ -12,10 +12,13 @@ This project is a turn-based game using WebSocket for real-time communication. I
 
    ```bash
    cd server
-
 2. Install dependencies:
    ```bash
    npm install
 3. Start the Server:
    ```bash
    npm start
+
+## Acknowledgement
+
+   I thank HitWicket to give me this opportunity to showcase my abilities.
